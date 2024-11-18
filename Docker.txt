@@ -1,18 +1,1 @@
-ssh ip172-18-0-73-ckahn40gftqg00e46b30@direct.labs.play-with-docker.com
 
-UserName: ip172-18-0-73-ckahn40gftqg00e46b30
-IP: direct.labs.play-with-docker.com
-
-Syntax
-______________________
-ssh -i Key UserName@IP
-
-Or 
-
------BEGIN OPENSSH PRIVATE KEY-----
-b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
-QyNTUxOQAAACDEFCeaxqF8gR6jaa9+is1AcPBhvOkjXAJYZSxl6A3dqwAAAJgrcm7lK3Ju
-5QAAAAtzc2gtZWQyNTUxOQAAACDEFCeaxqF8gR6jaa9+is1AcPBhvOkjXAJYZSxl6A3dqw
-AAAED5KPGmDc+pEiFNcrOFScIjQA4AQm6H1uM2hh3mjyjITsQUJ5rGoXyBHqNpr36KzUBw
-8GG86SNcAlhlLGXoDd2rAAAAFHJvb3RAYnVpbGRraXRzYW5kYm94AQ==
------END OPENSSH PRIVATE KEY-----
